@@ -15,4 +15,14 @@ undefined-abbreviation,Undefined Abbreviation,미정의 줄임말,all,기술조�
 grammar-error,Grammar Error,비문/문법 오류,all,주어-서술어 호응 오류 또는 조사 사용 오류 또는 문장 성분 누락,medium
 awkward-expression,Awkward Expression,어색한 표현,all,번역투 표현 또는 불필요한 피동/사동 또는 중복 표현,low
 colloquial-style,Colloquial Style,구어체 사용,all,Draft 문서에서 발견된 구어체를 문어체로 변환 필요,low
+duplicate-sentence,Duplicate Sentence,중복 문장,all,동일하거나 거의 유사한 의미의 문장이 반복되는 경우 삭제,medium
+short-sentence-merge,Short Sentence Merge,짧은 문장 통합,all,짧은 문장이 반복되고 문맥 연결 가능 시 자연스럽게 통합,low
+missing-toc,Missing TOC,목차 누락,all,읽는 데 3분 이상 걸리는 문서에 목차(TOC)가 없는 경우,medium
+heading-structure,Heading Structure,헤딩 구조,all,H1~H3 헤딩이 맥락에 맞게 계층적으로 구성되지 않은 경우,medium
+text-emphasis,Text Emphasis,텍스트 강조,all,중요한 키워드/코드/용어에 bold/italic/backtick 강조가 부족한 경우,low
+tone-inconsistency,Tone Inconsistency,톤 비일관,all,반말과 존댓말이 혼용되거나 어미 형태가 통일되지 않은 경우,medium
+write-to-read,Write to Read,읽는 사람 중심,all,쓰는 사람 관점으로만 작성되어 읽는 사람이 이해하기 어려운 경우,high
+missing-why,Missing Why,Why 누락,all,결정이나 설계의 이유(Why)가 명시되지 않은 경우,high
+missing-tradeoff,Missing Trade-off,Trade-off 누락,tech-spec|system-design,대안이나 포기한 옵션에 대한 설명이 없는 경우,medium
+stale-content,Stale Content,오래된 내용,all,현재 시스템 상태와 맞지 않거나 업데이트가 필요한 내용,high
 
