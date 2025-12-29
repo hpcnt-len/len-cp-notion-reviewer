@@ -1,0 +1,9 @@
+type_id,type_name,type_name_ko,database,required_properties,body_guidelines
+action-item,Action Item,업무 단위 티켓,action_item_db,"Date,Person,Project Name","Context (배경/맥락 상세히), Description (업무 내용 상세히)"
+tech-spec,Tech Spec,테크스펙,note_db,"Tags,Date,Person","목차(TOC), 요약/TL;DR, 배경(Background), 목표(Goal), 비목표(Non-Goal), 마일스톤(Milestone), 테스트 계획(Testing Plan)"
+system-intro,System Introduction,시스템 소개 및 기획,note_db,"Tags,Date,Person","목차(TOC), Executive Summary/요약, 배경(Background), 아키텍처(Architecture)"
+system-design,System Design,시스템 설계,note_db,"Tags,Date,Person","목차(TOC), Executive Summary/요약, 배경(Background), 아키텍처(Architecture)"
+ideation,Ideation,아이데이션,note_db,"Tags,Date,Person","목차(TOC), 배경(Background), 정리/결론"
+brainstorming,Brainstorming,브레인스토밍,note_db,"Tags,Date,Person","목차(TOC), 배경(Background), 정리/결론"
+other,Other,기타,note_db,"Tags,Date,Person","목차(TOC), 배경(Background), 정리/결론"
+
