@@ -3,7 +3,7 @@ name: 'step-04-suggest'
 description: '검토 결과를 바탕으로 구체적인 개선안 제시'
 
 # Path Definitions
-workflow_path: '{project-root}/_bmad-output/bmb-creations/workflows/core-platform-notion-reviewer/deployment'
+workflow_path: '{project-root}'
 
 # File References
 thisStepFile: '{workflow_path}/steps/step-04-suggest.md'

@@ -3,7 +3,7 @@ name: 'step-02-analyze'
 description: 'Notion 문서 fetch, DB 판별, 문서 타입 추론 및 확인'
 
 # Path Definitions
-workflow_path: '{project-root}/_bmad-output/bmb-creations/workflows/core-platform-notion-reviewer/deployment'
+workflow_path: '{project-root}'
 
 # File References
 thisStepFile: '{workflow_path}/steps/step-02-analyze.md'

@@ -3,7 +3,7 @@ name: 'step-05-feedback'
 description: '사용자 피드백 수집 - 승인, 수정 요청, 부분 승인'
 
 # Path Definitions
-workflow_path: '{project-root}/_bmad-output/bmb-creations/workflows/core-platform-notion-reviewer/deployment'
+workflow_path: '{project-root}'
 
 # File References
 thisStepFile: '{workflow_path}/steps/step-05-feedback.md'

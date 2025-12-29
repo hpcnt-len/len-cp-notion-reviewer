@@ -12,4 +12,7 @@ title-content-mismatch,Title-Content Mismatch,제목-내용 불일치,all,문서
 logical-flow,Logical Flow,논리적 흐름,all,섹션 순서가 부자연스럽거나 내용 전개가 논리적이지 않은 경우,medium
 term-inconsistency,Term Inconsistency,용어 비일관성,all,동일 개념에 다른 용어 혼용,low
 undefined-abbreviation,Undefined Abbreviation,미정의 줄임말,all,기술조직 공통 줄임말 외 정의 없이 사용된 약어 (사용자 입력으로 정의 추가),medium
+grammar-error,Grammar Error,비문/문법 오류,all,주어-서술어 호응 오류 또는 조사 사용 오류 또는 문장 성분 누락,medium
+awkward-expression,Awkward Expression,어색한 표현,all,번역투 표현 또는 불필요한 피동/사동 또는 중복 표현,low
+colloquial-style,Colloquial Style,구어체 사용,all,Draft 문서에서 발견된 구어체를 문어체로 변환 필요,low
 

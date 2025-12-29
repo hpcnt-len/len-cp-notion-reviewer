@@ -3,7 +3,7 @@ name: 'step-07-complete'
 description: '완료 확인 및 Sidecar 파일에 리뷰 히스토리 저장'
 
 # Path Definitions
-workflow_path: '{project-root}/_bmad-output/bmb-creations/workflows/core-platform-notion-reviewer/deployment'
+workflow_path: '{project-root}'
 
 # File References
 thisStepFile: '{workflow_path}/steps/step-07-complete.md'

@@ -3,7 +3,7 @@ name: 'step-06-apply'
 description: 'Notion MCP를 사용하여 승인된 개선안을 문서에 적용'
 
 # Path Definitions
-workflow_path: '{project-root}/_bmad-output/bmb-creations/workflows/core-platform-notion-reviewer/deployment'
+workflow_path: '{project-root}'
 
 # File References
 thisStepFile: '{workflow_path}/steps/step-06-apply.md'

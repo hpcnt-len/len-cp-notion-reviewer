@@ -3,7 +3,7 @@ name: 'step-01-init'
 description: 'Notion URL 입력 받기 및 Sidecar 파일 로드'
 
 # Path Definitions
-workflow_path: '{project-root}/_bmad-output/bmb-creations/workflows/core-platform-notion-reviewer/deployment'
+workflow_path: '{project-root}'
 
 # File References
 thisStepFile: '{workflow_path}/steps/step-01-init.md'
