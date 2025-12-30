@@ -215,7 +215,7 @@ flowchart TD
 ## 📦 파일 구조
 
 ```
-deployment/
+core-platform-notion-reviewer/
 ├── README.md                # 이 파일
 ├── summary.md               # 요약본
 ├── workflow.md              # 메인 워크플로우 정의
@@ -242,22 +242,6 @@ deployment/
 - 워크플로우 실행 전 `workflow.md`의 `workflow_path`를 실제 경로로 수정해야 합니다.
 - Sidecar 히스토리는 최근 **20건**만 유지됩니다.
 
----
-
-## 📝 설치 후 설정
-
-`workflow.md` 파일의 상단에서 `workflow_path`를 실제 배포 경로로 수정하세요:
-
-```yaml
-workflow_path: [실제 deployment 폴더 경로]
-```
-
-예시:
-```yaml
-workflow_path: /Users/username/project/.cursor/workflows/core-platform-notion-reviewer
-```
-
----
 
 ## 📜 라이선스
 
