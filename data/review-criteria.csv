@@ -25,4 +25,6 @@ write-to-read,Write to Read,읽는 사람 중심,all,쓰는 사람 관점으로�
 missing-why,Missing Why,Why 누락,all,결정이나 설계의 이유(Why)가 명시되지 않은 경우,high
 missing-tradeoff,Missing Trade-off,Trade-off 누락,tech-spec|system-design,대안이나 포기한 옵션에 대한 설명이 없는 경우,medium
 stale-content,Stale Content,오래된 내용,all,현재 시스템 상태와 맞지 않거나 업데이트가 필요한 내용,high
-
+doc-too-long,Document Too Long,문서 길이 초과,all,읽는 데 7~8분 이상 소요되는 긴 문서 (약 3500자 이상),high
+topic-fragmentation,Topic Fragmentation,주제 분산,all,서로 다른 2개 이상의 대주제가 한 문서에 혼재된 경우,high
+structure-too-deep,Structure Too Deep,구조 과도,all,헤딩 구조가 과도하게 복잡하거나 깊이가 깊은 경우 (H3 이하 3단계 또는 헤딩 15개 이상),medium
