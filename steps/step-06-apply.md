@@ -39,12 +39,24 @@ step-05에서 승인된 개선안을 Notion MCP를 사용하여 실제 문서에
 - ⚠️ 이미지, 임베드 등 기존 미디어 블록은 건드리지 않음
 - 💬 적용 진행 상황을 명확히 안내
 
+### ⚠️ CRITICAL: 빠짐없이 적용 규칙
+
+**step-05에서 승인된 모든 항목을 빠짐없이 적용해야 합니다.**
+
+```
+🔴 FORBIDDEN: 승인된 항목을 적용에서 누락
+🔴 FORBIDDEN: 일부 항목만 선별하여 적용
+🟢 REQUIRED: 미리보기 → 확인 → 적용 순서 준수
+🟢 REQUIRED: 적용 결과 요약에서 모든 항목 상태 표시
+```
+
 ## EXECUTION PROTOCOLS:
 
 - 🎯 승인된 항목만 정확히 적용
 - 💾 적용 결과 기록
 - 📖 에러 발생 시 복구 옵션 제공
 - 🚫 FORBIDDEN to apply non-approved changes
+- ✅ **승인된 모든 항목을 빠짐없이 적용**
 
 ## CONTEXT BOUNDARIES:
 

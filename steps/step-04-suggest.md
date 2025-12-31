@@ -38,12 +38,24 @@ step-03에서 발견된 문제점들에 대해 구체적인 개선안을 제시�
 - 🚫 FORBIDDEN to apply changes in this step
 - 💬 각 개선안에 명확한 근거 제시
 
+### ⚠️ CRITICAL: 빠짐없이 제시 규칙
+
+**step-03에서 발견된 모든 문제점에 대해 개선안을 제시해야 합니다.**
+
+```
+🔴 FORBIDDEN: 검토 결과에 있는 문제점을 개선안에서 누락
+🔴 FORBIDDEN: 일부 문제점만 선별하여 제시
+🟢 REQUIRED: step-03 검토 결과의 모든 ⚠️ 항목에 대응하는 개선안 제시
+🟢 REQUIRED: 개선안 전체 목록 표에서 누락 여부 확인
+```
+
 ## EXECUTION PROTOCOLS:
 
 - 🎯 심각도별로 개선안 정리 (Critical → High → Medium → Low)
 - 💾 개선안을 구조적으로 제시
 - 📖 사용자가 이해하기 쉽게 설명
 - 🚫 FORBIDDEN to modify document in this step
+- ✅ **step-03의 모든 문제점에 대해 빠짐없이 개선안 제시**
 
 ## CONTEXT BOUNDARIES:
 
