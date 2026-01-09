@@ -28,3 +28,4 @@ stale-content,Stale Content,오래된 내용,all,현재 시스템 상태와 맞�
 doc-too-long,Document Too Long,문서 길이 초과,all,읽는 데 7~8분 이상 소요되는 긴 문서 (약 3500자 이상),high
 topic-fragmentation,Topic Fragmentation,주제 분산,all,서로 다른 2개 이상의 대주제가 한 문서에 혼재된 경우,high
 structure-too-deep,Structure Too Deep,구조 과도,all,헤딩 구조가 과도하게 복잡하거나 깊이가 깊은 경우 (H3 이하 3단계 또는 헤딩 15개 이상),medium
+reviewer-required,Reviewer Required,리뷰어 필수,tech-spec|system-design|system-intro,리뷰어 지정이 필수인 문서 유형에서 리뷰어가 지정되지 않은 경우,critical
